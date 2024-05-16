@@ -25,7 +25,7 @@ shortTitle: Access the admin shell (SSH)
 ---
 ## About administrative shell access
 
-If you have SSH access to the administrative shell, you can run {% data variables.product.prodname_ghe_server %}'s command line utilities. SSH access is also useful for troubleshooting, running backups, and configuring replication. Administrative SSH access is managed separately from Git SSH access and is accessible only via port 122.
+If you have SSH access to the administrative shell, you can run the command line utilities of {% data variables.product.prodname_ghe_server %}. SSH access is also useful for troubleshooting, running backups, and configuring replication. Administrative SSH access is managed separately from Git SSH access and is accessible only via port 122.
 
 ## Enabling access to the administrative shell via SSH
 
